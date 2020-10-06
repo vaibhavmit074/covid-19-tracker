@@ -4,9 +4,10 @@
 
 Check out our `Profit With JavaScript Course`    :point_down: 
 
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
+#  Demo link
+this is demo site link [Click here](https://condescending-bose-ed7149.netlify.app/).
 
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+Made with :heart: by [Vaibhav](https://www.instagram.com/) & [Ansh](https://www.instagram.com/)
 
 ## Available Scripts
 
